@@ -75,7 +75,7 @@ IMDB 에서 제안한 Weight Rating 방식으로 평점 재산정
 
 - **사용 기술 :**
 
-콘텐츠 기반 추천 알고리즘 구현, Pandas, Numpy, React, Fastapi, KeyBert
+Contents-Based-Recommendation Algorithm, Pandas, Numpy, React, Fastapi, KeyBert
 
 # 기대 효과
 
